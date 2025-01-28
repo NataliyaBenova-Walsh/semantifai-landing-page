@@ -2,15 +2,12 @@ import { SolutionsSection } from "./modules/solutions-section";
 import { Header } from "./modules/header";
 import { ContactSection } from "./modules/contacts/contact-section";
 import { Footer } from "./modules/footer";
-import { Header2 } from "./modules/header";
+//import { Header2 } from "./modules/header";
 
 export function HomeSection () {
     return (
-        <>
+    
         
-         
-       
-
        <div className="relative p-8 bg-network2-bg bg-center bg-cover bg-fixed">
           
           <div className="absolute inset-0 bg-zinc-900 opacity-80 "></div> 
@@ -22,7 +19,7 @@ export function HomeSection () {
             <Footer />
             </section>
         </div>
-        </>
+    
         
     )
 }
