@@ -1,9 +1,10 @@
+/*
 import { EmailTemplate } from '@/components/email-template' 
 import { Resend } from 'resend';
 const RESEND_API_KEY="re_Kkc1U7NU_8i6mPacH5DBREhVR9RQoDvVn"
 
 
-//import type { NextApiRequest, NextApiResponse } from 'next';
+import type { NextApiRequest, NextApiResponse } from 'next';
 
 const resend = new Resend(RESEND_API_KEY);
 
@@ -30,7 +31,7 @@ export async function POST(username: string) {
   }
 }
 
-
+*/
 
 
 

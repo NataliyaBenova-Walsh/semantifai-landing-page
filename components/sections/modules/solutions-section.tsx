@@ -27,7 +27,7 @@ const data = [
         title: 'Process Automation',
         purpose:'Optimize repetitive tasks with AI-powered automation, improving efficiency and reducing operational costs.',
         useCases: 'Invoice processing, supply chain management, and administrative workflows.',
-        icon: <FileStack className="w-10 h-10   text-emerald-300 "/>,
+        icon: <FileAxis3d className="w-10 h-10   text-emerald-300 "/>,
     },
     {
         title: 'AI Integration Consulting and Implementation',
