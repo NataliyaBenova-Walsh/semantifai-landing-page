@@ -8,13 +8,7 @@ export function HomeSection () {
     return (
         <>
         
-            
-            <section className="relative z-10 bg-gradient-to-b from-zinc-950 via-zinc-800 to-zinc-950" >
-           <Header2 />
-           <ContactSection />
-           <SolutionsSection />
-           <Footer />
-           </section>
+         
        
 
        <div className="relative p-8 bg-network2-bg bg-center bg-cover bg-fixed">
@@ -33,6 +27,10 @@ export function HomeSection () {
     )
 }
 
-//  <div className="relative p-8 bg-network2-bg bg-center bg-cover">
-          
-//<div className="absolute inset-0 bg-zinc-900 opacity-80 "></div> 
+/*   
+            <section className="relative z-10 bg-gradient-to-b from-zinc-950 via-zinc-800 to-zinc-950" >
+           <Header2 />
+           <ContactSection />
+           <SolutionsSection />
+           <Footer />
+           </section>*/
